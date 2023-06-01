@@ -3,6 +3,11 @@ header {
     justify-content: space-between;
 }
 
+#delicious-brand {
+    display: flex;
+    justify-content: space-between;
+}
+
 #flex-container {
     display: flex;
     justify-content: space-between;
@@ -19,9 +24,7 @@ header {
 
 #delicious-text h1 {
     font-family: 'Yellowtail' ;
-    display: flex;
-    justify-content: space-between;
-
+  
 }
 
 #list {
