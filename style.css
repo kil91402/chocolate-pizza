@@ -1,38 +1,36 @@
 header {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 #delicious-brand {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 #flex-container {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 #Pizza {
-    margin-left: 10%;
-    margin-right: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
-#delicious-logo {
-    display: flex;
+#delicious {
+  align-self: center;
 }
 
 #delicious-text h1 {
-    font-family: 'Yellowtail' ;
-  
+  font-family: "Yellowtail";
 }
 
 #list {
-    font-family: Arial, Helvetica, sans-serif;
-    display: flex;
-    padding: 25px 45px;
-    margin-bottom: 25px;
-    background-image: url(./img/list-bg.png);
-    background-repeat: no-repeat;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  padding: 25px 45px;
+  margin-bottom: 25px;
+  background-image: url(./img/list-bg.png);
+  background-repeat: no-repeat;
 }
-  
