@@ -17,8 +17,11 @@ header {
     display: flex;
 }
 
-#delicious-text {
+#delicious-text h1 {
     font-family: 'Yellowtail' ;
+    display: flex;
+    justify-content: space-between;
+
 }
 
 #list {
