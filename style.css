@@ -1,0 +1,32 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+#flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+#Pizza {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#delicious-logo {
+    display: flex;
+}
+
+#delicious-text {
+    font-family: cursive;
+}
+
+#list {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    padding: 25px 45px;
+    margin-bottom: 25px;
+    background-image: url(./img/list-bg.png);
+    background-repeat: no-repeat;
+}
+  
